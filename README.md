@@ -4,7 +4,9 @@
 
 > A research project exploring wisdom-centered artificial intelligence
 > for human decision, reflection, and meaning.
-
+<p align="center">
+  <img src="./varesh-ai-roadmap.png" alt="VARESH-AI Roadmap" width="100%">
+</p>
 ---
 
 ## 🌱 Vision
