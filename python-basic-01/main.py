@@ -1,2 +1,2 @@
-name = "کاربر"   
-print("سلام", name)   
+name = "Iraj"
+print("Hello", name) 
