@@ -2,165 +2,281 @@
 
 ## Wisdom, Agency & Reflective Ethical Intelligence
 
-> A research project exploring wisdom-centered artificial intelligence
-> for human decision, reflection, and meaning.
+> A research and learning project exploring wisdom-centered artificial intelligence for human decision-making, reflection, and meaning.
+
 <p align="center">
   <img src="./varesh-ai-roadmap.png" alt="VARESH-AI Roadmap" width="100%">
 </p>
+
 ---
 
-## 🌱 Vision
+## 🌱 Research Question
 
-VARESH-AI explores a different question in artificial intelligence:
+VARESH-AI explores a fundamental question:
 
-**Can AI help humans make more thoughtful decisions without replacing human judgment?**
+**Can AI help humans make more thoughtful and responsible decisions without replacing human judgment?**
 
-The project investigates how artificial intelligence can combine:
+The project investigates how artificial intelligence might combine:
 
-- Evidence
-- Human values
-- Ethical reasoning
-- Reflection
-- Wisdom traditions
-- Modern AI techniques
+* Evidence
+* Context
+* Human values
+* Ethical reasoning
+* Reflection
+* Wisdom traditions
+* Modern AI techniques
 
 to support better-informed human decisions.
 
+VARESH-AI does **not** aim to make decisions on behalf of humans.
+
+The long-term direction is to explore AI as a **reflective decision-support system** that helps people examine evidence, values, alternatives, consequences, and assumptions before making their own decisions.
+
 ---
 
-## 🧠 Core Idea
+## 🧠 Vision
 
-VARESH-AI is inspired by the idea that **intelligence is not the same as wisdom**.
+VARESH-AI is inspired by a simple distinction:
 
-The long-term goal is to explore an AI system that can move through a process such as:
+**Intelligence is not necessarily wisdom.**
 
-**Question → Context → Evidence → Values → Wisdom → Alternatives → Reflection → Human Decision**
+An intelligent system may be able to retrieve information, identify patterns, generate alternatives, or predict outcomes.
+
+Wisdom-oriented intelligence asks additional questions:
+
+* What does this information mean?
+* What values are involved?
+* What are the possible consequences?
+* What assumptions are being made?
+* What alternatives have been overlooked?
+* What should a human consider before deciding?
+
+The long-term vision is to explore an AI system that can support a process such as:
+
+**Question → Context → Evidence → Values → Reflection → Alternatives → Consequences → Human Decision**
 
 The final decision remains with the human.
 
 ---
 
+## 🤝 Human Agency
+
+A central principle of VARESH-AI is **human agency**.
+
+The system should not be designed around the assumption that AI must produce the final answer.
+
+Instead, the project explores whether AI can help humans:
+
+1. Understand a problem more clearly.
+2. Gather and organize relevant evidence.
+3. Identify values and ethical considerations.
+4. Generate alternative perspectives.
+5. Examine possible consequences.
+6. Reflect on assumptions and uncertainties.
+7. Make a more informed decision.
+
+The goal is **decision support, not decision replacement**.
+
+---
+
 ## 📚 Rumi and Persian Wisdom
 
-One of the foundational cultural sources of this project is the wisdom of:
+One of the foundational cultural and philosophical sources of this project is the work of:
 
 **Mawlana Jalal al-Din Rumi**
 
-and the broader tradition of Persian literature and wisdom.
+and the broader tradition of Persian literature, philosophy, and wisdom.
 
-The project will explore how concepts such as:
+VARESH-AI may explore concepts such as:
 
-- Meaning
-- Self-awareness
-- Love
-- Fear
-- Patience
-- Choice
-- Responsibility
-- Compassion
-- Human nature
+* Meaning
+* Self-awareness
+* Love
+* Fear
+* Patience
+* Choice
+* Responsibility
+* Compassion
+* Human nature
 
-can be represented computationally and connected to modern AI systems.
+and investigate how such concepts might be represented, structured, retrieved, and studied computationally.
 
-Rumi is not treated as an AI persona or chatbot.
+Rumi is **not** treated as an AI persona or chatbot.
 
-Instead, his works are considered as a source of structured cultural and philosophical knowledge.
+Instead, his works are considered a source of cultural, literary, philosophical, and potentially structured knowledge for research.
 
----
-
-## 🌊 Kish Living Lab
-
-The project is being developed in **Kish Island, Iran**.
-
-Kish may eventually serve as a living laboratory for exploring how wisdom-centered AI can interact with:
-
-- People
-- Culture
-- Tourism
-- Environment
-- Place
-- Human experience
-- Decision-making
-
-The project is global in vision while beginning from a specific cultural and geographical context.
+Any computational interpretation of such material must remain aware of the difference between the original texts, their historical context, modern interpretations, and machine-generated representations.
 
 ---
 
-## 🛠 Research Areas
+## 🔬 Research Directions
 
-The project may gradually explore:
+VARESH-AI may gradually investigate several interconnected areas:
 
-- Python
-- Artificial Intelligence
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Embeddings
-- Vector Databases
-- Knowledge Graphs
-- Explainable AI (XAI)
-- Decision Support Systems
-- Ethical AI
-- Digital Humanities
+### Artificial Intelligence
+
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Embeddings
+* Knowledge Graphs
+* Explainable AI (XAI)
+
+### Decision Support
+
+* Evidence analysis
+* Value identification
+* Alternative generation
+* Reflection
+* Uncertainty
+* Explainability
+* Human-in-the-loop systems
+
+### Digital Humanities
+
+* Persian literary texts
+* Rumi and the Masnavi
+* Semantic search
+* Text representation
+* Cultural knowledge structures
+* Computational approaches to wisdom literature
+
+The technologies are means to investigate the research questions, not the research questions themselves.
 
 ---
 
 ## 🗺️ Development Roadmap
 
 ### Phase 0 — Foundations
-- Python
-- Git
-- GitHub
-- Programming fundamentals
-- Data structures
-- Software development practices
+
+* Python
+* Git
+* GitHub
+* Programming fundamentals
+* Data structures
+* Software development practices
 
 ### Phase 1 — Knowledge
-- Persian texts
-- Rumi and the Masnavi
-- Text preprocessing
-- Semantic search
-- Embeddings
+
+* Persian texts
+* Rumi and the Masnavi
+* Text preprocessing
+* Semantic search
+* Embeddings
+* Knowledge representation
 
 ### Phase 2 — Intelligence
-- NLP
-- RAG
-- LLM integration
-- Knowledge Graph
-- Reasoning experiments
 
-### Phase 3 — Decision Support
-- Evidence analysis
-- Value identification
-- Alternative generation
-- Reflection
-- Explainability
-- Human-in-the-loop decision support
+* NLP
+* RAG
+* LLM integration
+* Knowledge Graphs
+* Reasoning experiments
 
-### Phase 4 — Kish Living Lab
-- Real-world experiments
-- Human interaction
-- Cultural and environmental context
-- Evaluation
+### Phase 3 — Reflective Decision Support
 
-### Phase 5 — Research & Globalization
-- Evaluation
-- Documentation
-- Open-source development
-- Research publications
-- International collaboration
+* Evidence analysis
+* Value identification
+* Alternative generation
+* Reflection
+* Consequence analysis
+* Explainability
+* Human-in-the-loop decision support
+
+### Phase 4 — Real-World Context
+
+* Human interaction
+* Cultural context
+* Environmental context
+* Decision-making experiments
+* Evaluation
+
+### Phase 5 — Research & Global Collaboration
+
+* Systematic evaluation
+* Documentation
+* Open-source development
+* Research publications
+* Reproducible experiments
+* International collaboration
 
 ---
 
-## 📈 Project Status
+## 🌊 Kish as a Future Research Context
+
+The project is being developed in **Kish Island, Iran**.
+
+Kish may eventually provide a useful real-world context for exploring how wisdom-centered AI could interact with:
+
+* People
+* Culture
+* Tourism
+* Environment
+* Place
+* Human experience
+* Decision-making
+
+At the current stage, Kish should be understood as a **potential future research context**, rather than as an established living laboratory.
+
+The broader vision is global, while the project's initial development begins from a specific cultural and geographical context.
+
+---
+
+## 📈 Current Status
 
 **Status: Early Research / Learning Prototype**
 
-This project is currently at the beginning of its development.
+VARESH-AI is currently at an early stage of development.
 
-The initial implementation will be intentionally simple.
+The project is being developed progressively through:
 
-The system will evolve gradually as the underlying research, programming skills, and experiments develop.
+* Learning
+* Small experiments
+* Software development
+* Research exploration
+* Documentation
+* Critical evaluation
+
+The initial implementations will intentionally remain simple.
+
+The architecture, research questions, and experimental methods may evolve as evidence and experience accumulate.
+
+---
+
+## 🧪 Research Philosophy
+
+VARESH-AI is intentionally experimental.
+
+The project does not assume that wisdom can simply be converted into an algorithm, nor that an AI system can objectively determine what is wise.
+
+Instead, it asks whether computational systems can help humans **structure reflection around evidence, values, alternatives, uncertainty, and consequences**.
+
+Claims about novelty, scientific contribution, effectiveness, or ethical impact should be supported by:
+
+* Research
+* Experiments
+* Evaluation
+* Comparison with existing approaches
+* Transparent documentation
+
+---
+
+## 🤝 How to Contribute
+
+VARESH-AI is an open research and learning project.
+
+Constructive contributions are welcome, including:
+
+* Research ideas
+* Technical suggestions
+* Critical feedback
+* Ethical concerns
+* Literature recommendations
+* Persian language and cultural expertise
+* AI and software engineering expertise
+* Experimental ideas
+
+The project especially welcomes criticism that can help identify weak assumptions, methodological problems, or unsupported claims.
 
 ---
 
@@ -170,7 +286,7 @@ The system will evolve gradually as the underlying research, programming skills,
 
 Information Technology Engineering
 
-Kish International Campus  
+Kish International Campus
 Amirkabir University of Technology
 
 ---
@@ -187,7 +303,9 @@ Amirkabir University of Technology
 
 VARESH-AI is an experimental research and learning project.
 
-Its long-term vision is ambitious, but all claims about novelty, scientific contribution, and effectiveness will be evaluated through research, experimentation, comparison with existing work, and evidence.
+Its long-term vision is ambitious, but the project does not claim that its proposed ideas are novel, scientifically validated, or practically effective at this stage.
+
+Such claims should emerge only through research, experimentation, evaluation, comparison with existing work, and evidence.
 
 ---
 
