@@ -32,8 +32,6 @@ I am a **Mathematics Educator**, **IT Engineering student**, and **AI Researcher
 - 🌐 **Personal Website**: [Coming Soon]
 - 💼 **LinkedIn**: [Insert your LinkedIn profile link]
 - 🐦 **Twitter**: [Insert your Twitter profile link]
-- 📧 
-## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-irajbarani0852%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irajbarani0852@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40irajbarani0852-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irajbarani0852)
