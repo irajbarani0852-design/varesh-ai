@@ -1,51 +1,104 @@
-![Professional Banner](https://github.com/irajbarani0852-design/irajbarani0852-design/raw/main/varesh-social-preview.jpg)
+<div align="center">
 
-<h1 align="center">👋 Hello! I'm Iraj Barani</h1>
-<h3 align="center">🧑‍🏫 Mathematics Educator | 👨‍💻 IT Engineering Student | 🧠 AI Researcher</h3>
+# 🧭 VARESH-AI
 
-<p align="center">
-  <em>From Mathematics to Intelligence, and from Intelligence to Meaning</em>
-</p>
+### Wisdom-Centered Artificial Intelligence for Human Decision-Making
 
----
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-research%20%7C%20learning-orange?style=flat-square)]()
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Made with ❤](https://img.shields.io/badge/made%20with-%E2%9D%A4-red?style=flat-square)]()
 
-### 🌟 About Me
+*An open research and learning project exploring wisdom-centered AI for human decision-making, reflection, and ethical reasoning.*
 
-I am a **Mathematics Educator**, **IT Engineering student**, and **AI Researcher**. I have a long-standing passion for mathematics, computer science, artificial intelligence, literature, and human-centered technology. My journey is driven by a simple belief:
-
-> **"Technology becomes meaningful when it serves humanity."**
+</div>
 
 ---
 
-### 🔭 Skills & Areas of Activity
+## 📖 Overview
 
-- 🧮 **Pure and Applied Mathematics** | Teaching, Problem Solving, Modeling
-- 💻 **Programming & Software Development** | Python, C++, JavaScript
-- 🤖 **Artificial Intelligence & Machine Learning** | Designing and Implementing Intelligent Systems
-- 🌐 **Web Technologies** | Front-end and Back-end Development
-- 📚 **Literature & Critical Thinking** | Bridging Arts and Humanities with Technology
+**VARESH-AI** is an open research and learning project that explores how artificial
+intelligence can support — rather than replace — human judgment.
+The project focuses on **wisdom-centered AI**: systems designed to assist people in
+decision-making, self-reflection, and ethical reasoning, instead of only optimizing
+for speed or engagement.
 
----
+This repository documents the design ideas, experiments, and progress of the project
+as it grows from a personal research initiative into a structured AI system.
 
-### 📫 Connect with Me
-
-- 🌐 **Personal Website**: [Coming Soon]
-- 💼 **LinkedIn**: [Insert your LinkedIn profile link]
-- 🐦 **Twitter**: [Insert your Twitter profile link]
-
-[![Email](https://img.shields.io/badge/Email-irajbarani0852%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irajbarani0852@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40irajbarani0852-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irajbarani0852)
----
-
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irajbarani0852-design&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irajbarani0852-design&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+> "Technology becomes meaningful when it serves humanity."
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irajbarani0852-design&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🎯 Motivation
+
+Most AI systems today are optimized for prediction and automation.
+VARESH-AI asks a different question:
+
+**Can AI help humans think more clearly, reflect more honestly, and decide more wisely —
+without taking the decision away from them?**
+
+---
+
+## 🧩 Core Concepts
+
+| Concept | Description |
+|---|---|
+| **Human-Centered Reasoning** | AI as a thinking partner, not a decision-maker |
+| **Ethical Reflection** | Encouraging users to examine values behind choices |
+| **Explainability** | Every suggestion comes with transparent reasoning |
+| **Continuous Learning** | The project evolves publicly, in the open |
+
+---
+
+## 🛠️ Tech Stack
+
+> _(به‌روزرسانی می‌شود هرچه پروژه پیش می‌رود)_
+
+- **Language:** Python
+- **Core Areas:** Machine Learning, Data Analysis, NLP fundamentals
+- **Status:** Early-stage research & learning project
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/irajbarani0852-design/varesh-ai.git
+cd varesh-ai
+
+# (Setup instructions will be added as the project develops)
+```
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Define project vision and philosophy
+- [ ] Build core reasoning module (v0.1)
+- [ ] Add first decision-support prototype
+- [ ] Publish initial experiments and findings
+- [ ] Open the project to community contributions
+
+---
+
+## 🤝 Contributing
+
+This project is in an early, active learning phase.
+Feedback, ideas, and discussions are welcome via Issues.
+
+---
+
+## 📫 Contact
+
+Maintained by **Iraj Barani**
+📧 [irajbarani0852@gmail.com](mailto:irajbarani0852@gmail.com) · 💬 [Telegram](https://t.me/irajbarani0852)
+
+🔗 More about the author: [irajbarani0852-design](https://github.com/irajbarani0852-design)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
