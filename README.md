@@ -1,5 +1,6 @@
 <div align="center">
 
+![VARESH-AI Banner](banner.jpg)
 # 🧭 VARESH-AI 
 
 ### Wisdom-Centered Artificial Intelligence for Human Decision-Making
